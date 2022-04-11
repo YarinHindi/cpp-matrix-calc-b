@@ -1,0 +1,4 @@
+# ninja log v5
+10	625	6713202924600810	CMakeFiles/matrix_cal_b.dir/Main.cpp.obj	2ffd5effebda375f
+3	759	6713202925854220	CMakeFiles/matrix_cal_b.dir/sources/Matrix.cpp.obj	b271bb649b26bd4e
+18	2977	6713202947970725	CMakeFiles/matrix_cal_b.dir/TestRunner.cpp.obj	d4b2a0be380925a9
