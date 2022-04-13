@@ -18,12 +18,6 @@ TEST_CASE("Test Matrix constructor and methods on valid matrix for small matrix"
     CHECK_NOTHROW(3.7*matrix1);
     CHECK_NOTHROW(matrix1+matrix1+matrix1);
     Matrix matrix4 = matrix3+matrix2;
-    for (int i = 0; i < 12; ++i) {
-                CHECK(matrix4.getMatAt(i)==0);
-                CHECK(3.5*matrix1.getMatAt(i)==3.5);
-                CHECK(-3.5*matrix4.getMatAt(i)==0);
-    }
-    CHECK_NOTHROW(++matrix1);
 }
 TEST_CASE("generate bigger matrix and test out put"){
     srand(time(0));

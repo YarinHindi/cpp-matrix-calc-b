@@ -1,5 +1,7 @@
 #include "Matrix.hpp"
 #include <iostream>
+#include <sstream>
+
 using namespace std;
 using namespace zich;
 void insertMat(Matrix & mat) {

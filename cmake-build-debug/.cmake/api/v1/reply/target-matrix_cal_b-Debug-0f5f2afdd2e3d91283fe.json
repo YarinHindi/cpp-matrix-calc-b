@@ -128,7 +128,7 @@
 	[
 		{
 			"backtrace" : 1,
-			"path" : "sources/doctest.h",
+			"path" : "doctest.h",
 			"sourceGroupIndex" : 0
 		},
 		{
